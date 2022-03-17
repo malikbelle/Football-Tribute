@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <center>
 
-<body style = "background: url(https://krcgtv.com/resources/media/105a123f-bb9b-489c-9a16-44bd5744071f-large1x1_field.JPG?1519427471087); background-size: 275%;">
+
 
 <h1><u>American Football</u></h1>
 <hr>
