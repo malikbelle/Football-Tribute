@@ -3,7 +3,7 @@
 
 
 
-<h1><u>American Football</u></h1>
+<h1>American Football</h1>
 <hr>
 <h2>How it Started</h2>
 <p1>American football evolved in the United States, originating from the sports of soccer and rugby. <br>
